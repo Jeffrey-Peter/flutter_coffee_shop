@@ -1,13 +1,7 @@
 # Flutter Coffee Shop Mobile App
 
 
-Mobile app project for a coffee shop, designed and implemented using Flutter.
-
-## Table of Contents
-- [Installation](#installation)
-- [Screenshot](#screenshot)
-- [Figma UI](#figma-ui)
-- [Credits](#credits)
+Welcome to the Flutter Coffee Shop Mobile App project! This mobile application is designed to bring the delightful experience of a coffee shop to your fingertips. Developed using Flutter, it combines a user-friendly interface with a beautiful design to enhance your coffee shop experience.
 
 ## Installation
 
