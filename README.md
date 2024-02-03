@@ -16,7 +16,6 @@ Mobile app project for a coffee shop, designed and implemented using Flutter.
 
 Before you begin, ensure you have Flutter and Dart installed on your machine. If not, you can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-<a href="https://api.codingbeautydev.com" target="_blank">Coding Beauty</a>
 ## Screenshot
 ![Untitled design](https://github.com/jeffrey-peter/flutter_coffee_shop/assets/158720910/4768d1ce-7e0e-47b0-9755-55b44eae7407)
 
@@ -31,10 +30,10 @@ The Figma design is the property of its creator. Please refer to the Figma desig
 ## Credits
 Give credit to the third-party packages and libraries that you used in your Flutter project:
 
-flutter_svg
-flutter_staggered_grid_view
-readmore
-simple_shadow
+[flutter_svg](https://pub.dev/packages/flutter_svg)
+[flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
+[readmore](https://pub.dev/packages/readmore)
+(simple_shadow)[https://pub.dev/packages/simple_shadow]
 
 These packages greatly contributed to the development of this project. A big thank you to the authors and maintainers!
 
