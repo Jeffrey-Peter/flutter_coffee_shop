@@ -24,7 +24,7 @@ class _RootAppState extends State<RootApp> {
   Widget getBody() {
     List<Widget> pages = [
       const HomePage(),
-      const HomePage(),
+      Container(),
       Container(),
       Container(),
     ];
