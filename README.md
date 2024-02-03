@@ -15,6 +15,7 @@ Mobile app project for a coffee shop, designed and implemented using Flutter.
 
 Before you begin, ensure you have Flutter and Dart installed on your machine. If not, you can follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
+<a href="https://api.codingbeautydev.com">Coding Beauty</a>
 ## Screenshot
 ![Untitled design](https://github.com/jeffrey-peter/flutter_coffee_shop/assets/158720910/4768d1ce-7e0e-47b0-9755-55b44eae7407)
 
