@@ -22,7 +22,6 @@ Note:
 The Figma design is the property of its creator. Please refer to the Figma design's licensing or terms of use for more information.
 
 ## Credits
-Give credit to the third-party packages and libraries that you used in your Flutter project:
 
 [flutter_svg](https://pub.dev/packages/flutter_svg)
 
