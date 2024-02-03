@@ -41,10 +41,3 @@ Give credit to the third-party packages and libraries that you used in your Flut
 These packages greatly contributed to the development of this project. A big thank you to the authors and maintainers!
 
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/Jeffrey-Peter/flutter_coffee_shop.git
-cd flutter_coffee_shop
-
-
