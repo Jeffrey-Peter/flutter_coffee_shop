@@ -21,3 +21,4 @@ Before you begin, ensure you have Flutter and Dart installed on your machine. If
 git clone https://github.com/Jeffrey-Peter/flutter_coffee_shop.git
 cd flutter_coffee_shop
 
+## Usage
