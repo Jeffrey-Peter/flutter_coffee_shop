@@ -33,7 +33,7 @@ Give credit to the third-party packages and libraries that you used in your Flut
 [flutter_svg](https://pub.dev/packages/flutter_svg)
 [flutter_staggered_grid_view](https://pub.dev/packages/flutter_staggered_grid_view)
 [readmore](https://pub.dev/packages/readmore)
-(simple_shadow)[https://pub.dev/packages/simple_shadow]
+[simple_shadow](https://pub.dev/packages/simple_shadow)
 
 These packages greatly contributed to the development of this project. A big thank you to the authors and maintainers!
 
