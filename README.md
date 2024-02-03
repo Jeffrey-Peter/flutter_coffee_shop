@@ -1,13 +1,11 @@
-markdown_extensions:
-  - attr_list
-
 # Flutter Coffee Shop Mobile App
+
 
 Mobile app project for a coffee shop, designed and implemented using Flutter.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Screenshot](#usage)
+- [Screenshot](#screenshot)
 - [Figma UI](#figma-ui)
 - [Credits](#credits)
 
