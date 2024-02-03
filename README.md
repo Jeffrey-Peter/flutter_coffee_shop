@@ -21,7 +21,7 @@ Before you begin, ensure you have Flutter and Dart installed on your machine. If
 ## Figma UI
 This project's user interface is designed using Figma. You can view the Figma design by following the link below:
 
-Figma Design Link: [a link](https://www.figma.com/community/file/1116708627748807811)
+Figma Design Link: [a link][go](https://www.figma.com/community/file/1116708627748807811)
 
 Note:
 The Figma design is the property of its creator. Please refer to the Figma design's licensing or terms of use for more information.
